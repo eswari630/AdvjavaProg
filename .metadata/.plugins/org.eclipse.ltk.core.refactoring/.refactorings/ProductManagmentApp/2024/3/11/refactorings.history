@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;ProductManagmentApp&apos;&#x0D;&#x0A;- Original project: &apos;ProductManagmentApp&apos;&#x0D;&#x0A;- Original element: &apos;commons-io-2.15.1-test-sources.jar&apos;" description="Delete element" element1="src/main/webapp/WEB-INF/lib/commons-io-2.15.1-test-sources.jar" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1710236146356" subPackages="false" version="1.0"/>
+</session>

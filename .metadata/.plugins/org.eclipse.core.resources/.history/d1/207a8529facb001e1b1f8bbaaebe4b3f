@@ -1,0 +1,9 @@
+package Jdbcexample;
+
+public class Employee{
+	int empid;
+	String empName;
+	double empSalary;
+	}
+
+
